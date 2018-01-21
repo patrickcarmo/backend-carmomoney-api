@@ -1,4 +1,4 @@
-package com.patrickcarmo.carmomoney.api.resource;
+package com.patrickcarmo.carmomoney.api.model;
 
 import javax.persistence.Embeddable;
 
